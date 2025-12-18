@@ -1,6 +1,6 @@
 # Nowledge Mem Tools
 - 脚本由 Opus 4.5 模型生成
-- 用于 [Nowledge Mem](https://nowledge.com)
+- 用于 [Nowledge Mem](https://mem.nowledge.co)
 - 目前仅支持将 ChatWise 应用的对话记录导入到 Nowledge Mem 的 Threads，随缘更新适配其他 app 。
 
 ## ✨ 功能特性
